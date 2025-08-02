@@ -73,7 +73,7 @@ Accuracy: ~50% on test data
   
 ## How to Run
 
-Clone the repository. (git clone https://github.com/yourusername/music-streaming-ml.git)
+Clone the repository. (git clone https://github.com/srujanachalluri/Music-Streaming_Python.git)
 Add music.csv to the project folder.
 Run the Python script. (python music_streaming.py)
 Use model.predict() to classify new data points.
