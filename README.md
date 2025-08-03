@@ -78,6 +78,22 @@ Add music.csv to the project folder.
 Run the Python script. (python music_streaming.py)
 Use model.predict() to classify new data points.
 
+Music Streaming
+Execution steps:
+
+Clone from Github repo and do the modifications and push back to git:
+1.   git clone https://github.com/yourusername/music-streaming.git
+2.   cd music-streaming
+For any modifications, make the changes and push to Github using below commands: 
+1.    git add .
+2.    git commit -m "Update music.ipynb and music.csv"
+3.    git push origin main
+verify in Github
+
+For execution :
+Make sure the music.csv file is in the path /content/sample_data/music.csv
+Open Google colaboratory and run the file music.ipynb
+
 ---
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
