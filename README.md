@@ -94,6 +94,13 @@ For execution :
 Make sure the music.csv file is in the path /content/sample_data/music.csv
 Open Google colaboratory and run the file music.ipynb
 
+## 🚀 Live Demo
+
+### Open in Google Colab
+You can launch the notebook directly in Colab (no local install needed):
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srujanachalluri/Music-Streaming_Python/blob/main/notebooks/Music_Streaming_Project.ipynb)
+
 ---
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
