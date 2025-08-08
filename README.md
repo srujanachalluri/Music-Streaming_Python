@@ -53,6 +53,8 @@ python
 predictions = model.predict([[21, 1], [21, 0]])
 # Output: ['HipHop', 'Dance'] 
 
+The dataset can be viewed here: [music.csv](https://raw.githubusercontent.com/srujanachalluri/Music-Streaming_Python/main/music.csv)
+
 ---
 
 📊 Model Performance
@@ -77,6 +79,29 @@ Clone the repository. (git clone https://github.com/srujanachalluri/Music-Stream
 Add music.csv to the project folder.
 Run the Python script. (python music_streaming.py)
 Use model.predict() to classify new data points.
+
+Music Streaming
+Execution steps:
+
+Clone from Github repo and do the modifications and push back to git:
+1.   git clone https://github.com/yourusername/music-streaming.git
+2.   cd music-streaming
+For any modifications, make the changes and push to Github using below commands: 
+1.    git add .
+2.    git commit -m "Update music.ipynb and music.csv"
+3.    git push origin main
+verify in Github
+
+For execution :
+Make sure the music.csv file is in the path /content/sample_data/music.csv
+Open Google colaboratory and run the file music.ipynb
+
+## 🚀 Live Demo
+
+### Open in Google Colab
+You can launch the notebook directly in Colab (no local install needed):
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srujanachalluri/Music-Streaming_Python/blob/main/Music_Streaming_Project.ipynb)
 
 ---
 📜 License
