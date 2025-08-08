@@ -53,6 +53,8 @@ python
 predictions = model.predict([[21, 1], [21, 0]])
 # Output: ['HipHop', 'Dance'] 
 
+The dataset can be viewed here: [music.csv](https://raw.githubusercontent.com/srujanachalluri/Music-Streaming_Python/main/music.csv)
+
 ---
 
 📊 Model Performance
@@ -99,7 +101,7 @@ Open Google colaboratory and run the file music.ipynb
 ### Open in Google Colab
 You can launch the notebook directly in Colab (no local install needed):
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srujanachalluri/Music-Streaming_Python/blob/main/notebooks/Music_Streaming_Project.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/srujanachalluri/Music-Streaming_Python/blob/main/Music_Streaming_Project.ipynb)
 
 ---
 📜 License
