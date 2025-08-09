@@ -100,6 +100,9 @@ Open Google colaboratory and run the file music.ipynb
 
 You can view the results [here](ResultAccuracySS.png)
 
+![Screenshot description](https://github.com/srujanachalluri/Music-Streaming_Python/blob/main/ResultAccuracySS.png?raw=true)
+
+
 ## 🚀 Live Demo
 
 ### Open in Google Colab
