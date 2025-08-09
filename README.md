@@ -96,6 +96,10 @@ For execution :
 Make sure the music.csv file is in the path /content/sample_data/music.csv
 Open Google colaboratory and run the file music.ipynb
 
+## Results
+
+You can view the results [here](ResultAccuracySS.png)
+
 ## 🚀 Live Demo
 
 ### Open in Google Colab
